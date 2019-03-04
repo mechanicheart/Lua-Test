@@ -1,3 +1,4 @@
+--Compiled with ZeroBrane Studio
 function Key_Mapper(chr)
     if(chr == 'A' or chr == 'B' or chr == 'C') then
       return 2;
