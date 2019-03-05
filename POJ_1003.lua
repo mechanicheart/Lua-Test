@@ -28,4 +28,4 @@ while(1) do
     break;
   end;
   print(find(card_tbl , input_val) .. " card(s)");
-end;
+end
